@@ -64,7 +64,7 @@ fgfg
 (https://github.com/FirstClone1/Test/blob/master/Screenshot_1.png "Текст заголовка логотипа 1")
 
 
-![alt text](Test/Screenshot_1.png "Описание будет тут")
+![alt text](Screenshot_1.png "Описание будет тут")
 
 ### Вставка изображения:
 ```   
