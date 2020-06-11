@@ -1,5 +1,11 @@
 # Test
 First-Test
 fgfg
+
 [user]
-  name = Alexander Kondratyev
+  name = Alexander 
+
+
+какой-то текст
+ещё что-то
+
