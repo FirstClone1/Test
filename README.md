@@ -61,6 +61,7 @@ fgfg
 2. [Обычная ссылка с title](https://www.google.com "Сайт Google")
 
 https://github.com/FirstClone1/Test/blob/master/Screenshot_1.png
+(https://github.com/FirstClone1/Test/blob/master/Screenshot_1.png "Текст заголовка логотипа 1")
 
 ### Вставка изображения:
 ```   
