@@ -60,8 +60,11 @@ fgfg
 1. [Обычная ссылка в строке](https://www.google.com)
 2. [Обычная ссылка с title](https://www.google.com "Сайт Google")
 
-https://github.com/FirstClone1/Test/blob/master/Screenshot_1.png
+[alt-текст]https://github.com/FirstClone1/Test/blob/master/Screenshot_1.png
 (https://github.com/FirstClone1/Test/blob/master/Screenshot_1.png "Текст заголовка логотипа 1")
+
+
+![alt text](screenshots/filename.png "Описание будет тут")
 
 ### Вставка изображения:
 ```   
